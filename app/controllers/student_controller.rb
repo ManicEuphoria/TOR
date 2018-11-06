@@ -10,7 +10,7 @@ class StudentController < ApplicationController
   end
 
   def attend_meeting
-
+    puts "i am late for the meeting!"
   end
 
   def leave_classroom
