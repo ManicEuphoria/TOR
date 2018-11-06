@@ -22,7 +22,7 @@ class StudentController < ApplicationController
   end
 
   def go_gym
-
+    puts "do some gym everyday. makes you feel better day by day!"
   end
 
   def play_football
