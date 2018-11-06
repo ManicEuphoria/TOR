@@ -26,7 +26,7 @@ class StudentController < ApplicationController
   end
 
   def play_football
-
+    puts "does anyone go play football with me?"
   end
 
   def play_basketball
