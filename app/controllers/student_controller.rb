@@ -14,7 +14,7 @@ class StudentController < ApplicationController
   end
 
   def leave_classroom
-    
+    puts "classroom too many people, i have to leave!"
   end
 
   def go_bath
