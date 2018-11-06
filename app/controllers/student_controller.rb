@@ -20,4 +20,8 @@ class StudentController < ApplicationController
   def go_bath
 
   end
+
+  def go_gym
+
+  end
 end
