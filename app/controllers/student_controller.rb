@@ -8,4 +8,12 @@ class StudentController < ApplicationController
   def drop_school
     @time = Time.now.strftime("%Y-%m-%d %H:%M:%S")
   end
+
+  def attend_meeting
+
+  end
+
+  def leave_classroom
+    
+  end
 end
