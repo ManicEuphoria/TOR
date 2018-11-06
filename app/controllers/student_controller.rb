@@ -28,4 +28,9 @@ class StudentController < ApplicationController
   def play_football
 
   end
+
+  def play_basketball
+
+  end
+  
 end
