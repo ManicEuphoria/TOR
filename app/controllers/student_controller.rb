@@ -37,4 +37,8 @@ class StudentController < ApplicationController
 
   end
 
+  def have_a_row_with_her
+
+  end
+
 end
