@@ -32,5 +32,9 @@ class StudentController < ApplicationController
   def play_basketball
 
   end
-  
+
+  def fall_in_love
+
+  end
+
 end
