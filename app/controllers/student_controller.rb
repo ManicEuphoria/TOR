@@ -18,7 +18,7 @@ class StudentController < ApplicationController
   end
 
   def go_bath
-
+    puts "oh gosh, i have to go bath!"
   end
 
   def go_gym
