@@ -16,4 +16,8 @@ class StudentController < ApplicationController
   def leave_classroom
     
   end
+
+  def go_bath
+
+  end
 end
